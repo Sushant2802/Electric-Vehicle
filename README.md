@@ -1,7 +1,7 @@
 <h1>🚗 Electric Vehicle Market Segmentation Analysis</h1>
 
 <h2>📌 Project Overview</h2>
-<p>This project focuses on analyzing the Electric Vehicle (EV) market in India using segmentation analysis. The goal is to identify the most promising consumer segments and develop a feasible strategy for an EV startup to enter the market successfully.</p>
+<p>This project focuses on analyzing the Electric Vehicle (EV) market in United States, specifically from the state of Washington using segmentation analysis. The goal is to identify the most promising consumer segments and develop a feasible strategy for an EV startup to enter the market successfully.</p>
 
 <h2>📊 Problem Statement</h2>
 <p>An EV startup is looking to determine which vehicle/customer segment to target. Through data analysis, segmentation techniques, and machine learning models, we aim to:</p>
@@ -14,7 +14,7 @@
 <h2>🛠️ Technologies & Tools Used</h2>
 <p><strong>Programming Language:</strong> Python</p>
 <p><strong>Data Processing:</strong> Pandas, NumPy</p>
-<p><strong>Visualization:</strong> Matplotlib, Seaborn, Plotly, Power BI/Tableau</p>
+<p><strong>Visualization:</strong> Matplotlib, Seaborn, Plotly</p>
 <p><strong>Machine Learning Models:</strong></p>
 <ul>
   <li>AdaBoost Classifier</li>
@@ -55,15 +55,10 @@
 📂 Electric_Vehicle_Analysis
 │-- 📄 Electric_Vehicle.ipynb   # Jupyter Notebook with data analysis
 │-- 📄 README.md                # Project documentation
-│-- 📂 data/                     # Raw and processed datasets
-│-- 📂 visualizations/            # Graphs and charts generated from analysis
 </pre>
-
-<h2>🤝 Contributing</h2>
-<p>Contributions, issues, and feature requests are welcome! Feel free to fork this repository and submit a pull request.</p>
 
 <h2>📜 License</h2>
 <p>This project is licensed under the MIT License.</p>
 
 <h2>📧 Contact</h2>
-<p>For inquiries or collaboration, reach out via GitHub or email.</p>
+<p>For inquiries or collaboration, reach out via GitHub or sushantm1210@gmail.com.</p>
